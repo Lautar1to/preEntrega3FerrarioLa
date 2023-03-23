@@ -1,0 +1,48 @@
+*{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body{
+  margin: auto;
+  padding: 0%;
+  top: 50%;
+  left: 50%;
+}
+
+.square {
+    width: 100px;
+    height: 100px;
+    background-color: white;
+    display: inline-block;
+    margin: 5px;
+    font-size: 72px;
+    text-align: center;
+    line-height: 100px;
+    cursor: pointer;
+    border-width: 2px;
+    border-color:black;
+    
+  }
+  aside{
+    background-color: #948fff;
+    padding: 0%;
+    margin: auto;
+    border-width: 2px;
+    border-color:black;
+  }
+
+  
+  Restart{
+    top: 50%;
+    left: 50%;
+    text-align: center;
+    position: relative;
+    border-width: 2px;
+    border-color:black;
+  }
+  p{
+    color: #b7512c;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: underline;
+    
+  }
